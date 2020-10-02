@@ -26,16 +26,16 @@
     "rain" : [
         "Today's weather... Rain",
         "Don't forget your umbrella",
-        "Don't forget your coat"
+        "Don't forget your coat!"
     ],
     "showers" : [
         "Today's weather... Showers",
         "Don't forget your umbrella",
-        "Don't forget your coat"
+        "Don't forget your coat!"
     ],
     "cloudy_windy" : [
         "Today's weather... Cloudy and Windy",
         "Don't forget your umbrella",
-        "Don't forget your coat"
+        "Don't forget your coat!"
     ]
 }
