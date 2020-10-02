@@ -1,20 +1,42 @@
 {
     "anytime" : [
-        "Hey there sexy!"
+        "Welcome!",
+        "'The greatest glory in living lies not in never \nfalling, but in rising every time we fall.' -Nelson Mandela",
+        "'The way to get started is to quit talking and begin doing.' -Walt Disney",
+        "'Your time is limited, so don't waste it living someone else's life. \nDon't be trapped by dogma – which is living with the results of other people's thinking.' -Steve Jobs",
+        "'If life were predictable it would cease to be life, and be without flavor.' -Eleanor Roosevelt",
+        "'If you look at what you have in life, you'll always have more. \nIf you look at what you don't have in life, you'll never have enough.' -Oprah Winfrey",
+        "'If you set your goals ridiculously high and it's a failure, you \nwill fail above everyone else's success.' -James Cameron",
+        "'Life is what happens when you're busy making other plans.' -John Lennon",
+        "'Success is not final, failure is not fatal: it \nis the courage to continue that counts.' - Winston Churchill"
+    ],
+    "morning" : [
+        "Good morning!",
+        "Do you have a busy day?",
+        "Breakfast time!"        
+    ],
+    "afternoon" : [
+        "Good Afternoon!",
+        "How is your day going?"
+    ],
+    "evening" : [
+        "How was your day?",
+        "You are making a difference.",
+        "The day was better for your efforts."
     ],
     "day_sunny" : [
-        "Today is Sunny"
+        "Today's weather... Sunny"
     ],
     "snow" : [
-        "Today is Snow"
+        "Today's weather... Snow"
     ],
     "rain" : [
-        "Today is Rain"
+        "Today's weather... Rain"
     ],
     "showers" : [
-        "Today is Showers"
+        "Today's weather... Showers"
     ],
     "cloudy_windy" : [
-        "Today is Cloudy and Windy"
+        "Today's weather... Cloudy and Windy"
     ]
 }
