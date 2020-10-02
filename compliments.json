@@ -1,14 +1,20 @@
 {
     "anytime" : [
-        "This is a git test"
+        "Hey there sexy!"
     ],
-    "morning" : [
-        "This is a git test"
+    "day_sunny" : [
+        "Today is Sunny"
     ],
-    "afternoon" : [
-        "This is a git test"
+    "snow" : [
+        "Today is Snow"
     ],
-    "evening" : [
-        "This is a git test"
+    "rain" : [
+        "Today is Rain"
+    ],
+    "showers" : [
+        "Today is Showers"
+    ],
+    "cloudy_windy" : [
+        "Today is Cloudy and Windy"
     ]
 }
