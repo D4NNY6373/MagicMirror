@@ -1,0 +1,14 @@
+{
+    "anytime" : [
+        "This is a git test"
+    ],
+    "morning" : [
+        "This is a git test"
+    ],
+    "afternoon" : [
+        "This is a git test"
+    ],
+    "evening" : [
+        "This is a git test"
+    ]
+}
